@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilmsJochen
-- 👀 I’m interested in all kind of cool tech, Frontend - Backend - Cloud 
-- 🌱 I’m currently learning Haskel plutus
-- 💞️ I’m looking to collaborate on Hyfen and my own Vidbid project
+- 👀 I’m interested in all kinds of cool tech, Frontend - Backend - DevOps - Cloud 
+- 🌱 I’m currently building [FirstMate](https://www.firstmate.cloud/). 
+- 💞️ I’m looking for a new movement to DevOps 2.O
 - 📫 How to reach me https://www.linkedin.com/in/jochen-wilms/
 
 <!---
